@@ -1,0 +1,1 @@
+#include<stdio.h>void main(){int i,j,12hello;i=2;j=3;int k=i+j;}
